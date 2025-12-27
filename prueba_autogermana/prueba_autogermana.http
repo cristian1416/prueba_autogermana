@@ -1,0 +1,6 @@
+@prueba_autogermana_HostAddress = http://localhost:5123
+
+GET {{prueba_autogermana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
